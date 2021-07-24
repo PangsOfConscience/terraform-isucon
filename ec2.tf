@@ -1,5 +1,5 @@
 variable "instance_ami" {
-  default = "ami-03b1b78bb1da5122f"
+  default = "ami-03bbe60df80bdccc0"
 }
 
 resource "aws_key_pair" "developer_keypair" {
